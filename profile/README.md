@@ -12,17 +12,15 @@ This project aims to develop novel algorithms for the design of **distributed de
 
 ## ⭐️ Highlights
 
-### 🛠 DECENTER toolbox
+### 🛠 [DECENTER toolbox](https://github.com/decenter2021/decenter)
 Decentralized and distributed control and estimation toolbox for MATLAB. 
-[[Webpage](https://decenter2021.github.io), [Repository](https://github.com/decenter2021/decenter)]
+[[Webpage](https://decenter2021.github.io)]
 
-### ⚗️ Quadruple-Tank Setup
+### ⚗️ [Quadruple-Tank Setup](https://github.com/decenter2021/quadruple-tank-setup)
 Reproducible Low-cost Flexible Quadruple-Tank Process Experimental Setup for Control Educators, Practitioners, and Researchers. 
-[[Repository](https://github.com/decenter2021/quadruple-tank-setup)]
 
-### 🚦 SAFFRON
+### 🚦 [SAFFRON](https://github.com/decenter2021/SAFFRON)
 Store-And-Forward model toolbox For urban ROad Network signal control in MATLAB.
-[[Repository](https://github.com/decenter2021/SAFFRON)]
 
 ***
 
